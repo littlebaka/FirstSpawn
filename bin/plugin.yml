@@ -1,0 +1,17 @@
+name: FirstSpawn
+main: fr.icraftevo.firstspawn.FirstSpawn
+version: 0.1
+website: icraftevo.fr
+authors:
+- Ninja_Buta
+commands:
+    setfs:
+      description: Definie le FirstSpawn.
+      permission: FirstSpawn.FirstSpawn
+      usage: |
+    	   /setfs
+    fs:
+      description: Teleporte au FirstSpawn.
+      permission: FirstSpawn.FirstSpawn
+      usage: |
+    	   /fs
